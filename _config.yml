@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Debaratna Nath </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/debaratna-nath/">LinkedIn</a> |
+  <a href="https://github.com/debaratna-nath">GitHub</a>
+  
+  <br>   
+  Working as a Data Scientist with the largest Container Shipping Company in the world.
+  Adept in classical machine learning, Time Series Forecasting, NLP, Deep Learning.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
